@@ -1,0 +1,11 @@
+# Ignorar planilhas de dados (Informações sensíveis / LGPD)
+*.xlsx
+*.csv
+~$*.xlsx
+
+# Ambientes virtuais e cache Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
